@@ -1,0 +1,1 @@
+print("the number {} has {}".format('kl','ash'))
